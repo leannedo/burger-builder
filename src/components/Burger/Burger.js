@@ -17,7 +17,7 @@ const burger = (props) => {
     }
     //why don't we check it right at the beginning and divide into 2 cases
 
-    console.log(transformedIngredients);
+    // console.log(transformedIngredients);
 
 
     return(
